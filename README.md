@@ -1,5 +1,6 @@
 ### Hi there, I'm Mathis and I'm web developer. 👋
 
+![Cover](https://github.com/Mathis-PLUMAIL/Mathis-PLUMAIL/edit/master/img/mathis-plumail.png)
 
 <!--
 **Mathis-PLUMAIL/Mathis-PLUMAIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
