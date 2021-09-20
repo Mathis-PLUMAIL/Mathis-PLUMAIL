@@ -1,6 +1,7 @@
                                                      ### Hi there, I'm Mathis and I'm web developer. 👋
                                                      
                                          Now consult my website at the following address : https://mathisplumail.com/
+![](https://komarev.com/ghpvc/?Mathis-PLUMAIL&color=green)
 
 <!-- ![Cover](https://github.com/Mathis-PLUMAIL/Mathis-PLUMAIL/blob/master/img/mathis-plumail.PNG) -->
 
@@ -8,7 +9,7 @@
 **Mathis-PLUMAIL/Mathis-PLUMAIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
       
    
-![](https://komarev.com/ghpvc/?Mathis-PLUMAIL&color=green)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
