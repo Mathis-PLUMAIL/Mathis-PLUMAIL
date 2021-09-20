@@ -26,7 +26,7 @@ Tools :
 
 Contact :
 
-<a href="mailto:mathis.plumail@gmail.com" target="_blank">
+<a href="mailto:mathis.plumail@gmail.com">
 	
 	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 	
