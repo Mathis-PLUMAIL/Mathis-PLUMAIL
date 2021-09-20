@@ -2,9 +2,11 @@
                                                      
                                          Now consult my website at the following address : https://mathisplumail.com/
 ![](https://komarev.com/ghpvc/?username=Mathis-PLUMAIL&color=green)
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+	
 <!-- ![Cover](https://github.com/Mathis-PLUMAIL/Mathis-PLUMAIL/blob/master/img/mathis-plumail.PNG) -->
 
 <!--
