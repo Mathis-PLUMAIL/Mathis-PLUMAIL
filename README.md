@@ -22,7 +22,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://www.linkedin.com/in/mathis-plumail-62abb1199/" target="_blank">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
 	
 <!-- ![Cover](https://github.com/Mathis-PLUMAIL/Mathis-PLUMAIL/blob/master/img/mathis-plumail.PNG) -->
 
