@@ -26,8 +26,11 @@ Tools :
 
 Contact :
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:mathis.plumail@gmail.com">
 	
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</a>	
 
 <a href="https://www.linkedin.com/in/mathis-plumail-62abb1199/" target="_blank">
 	
