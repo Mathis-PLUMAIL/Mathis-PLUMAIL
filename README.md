@@ -6,7 +6,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Mathis-PLUMAIL&theme=gotham&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathis-PLUMAIL&theme=gotham)
 	
-
+<hr>
 <div align="right">	
 
 ![](https://komarev.com/ghpvc/?username=Mathis-PLUMAIL&color=green)
