@@ -7,7 +7,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathis-PLUMAIL&theme=gotham)
 	
 <hr>
-<div align="right">	
+<div align="">	
 
 ![](https://komarev.com/ghpvc/?username=Mathis-PLUMAIL&color=green)
 	
