@@ -1,10 +1,12 @@
                                                      ### Hi there, I'm Mathis and I'm web developer. 👋
                                                      
                                          Now consult my website at the following address : https://mathisplumail.com/
-					 
+
+<br>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Bastien-OC20&theme=gotham&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien-OC20&theme=gotham)
-					 
+	
+<br>
 <div align="right">	
 	
 ![](https://komarev.com/ghpvc/?username=Mathis-PLUMAIL&color=green)
