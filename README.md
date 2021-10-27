@@ -12,6 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=Mathis-PLUMAIL&color=green)
 	
 </div>
+<hr>
 
 <div align="center">
 <h2>Language :</h2>
